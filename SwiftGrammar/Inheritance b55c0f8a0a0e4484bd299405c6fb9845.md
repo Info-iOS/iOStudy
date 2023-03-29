@@ -18,7 +18,6 @@ var introduction: String{
 func speak() {
 	print("가나다라")
 }
-}
 let yagom: Person = Person()
 yagom.name = "yagom"
 yagom.age = 99
