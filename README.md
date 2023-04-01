@@ -19,7 +19,7 @@
 |     7 |   뷰 생명주기 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/ViewLifeCycle)  | 
 |     8 |   클로저 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Closures)   | 
 |     9 |   self |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/self)   | 
-|     10 |   pod |  [이동하기]("만나서 알려줌")  | 
+|     10 |   pod |  만나서 알려줌  | 
 |     11 |   상속 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Inheritance)    | 
 |     12 |   init |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Initialization)  | 
 |     13 |   익스텐션 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Extension)    | 
