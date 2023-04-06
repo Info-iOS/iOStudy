@@ -29,6 +29,6 @@
 |     17 |   고차 함수 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/HigherOrderFunction)    | 
 |     18 |   에러 처리 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/ErrorHandling)    | 
 |     19 |   UserDefult |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/UserDefault)    | 
-|     19 |   제네릭 |   -   | 
+|     19 |   제네릭 |   [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Generic)   | 
 
 ---
