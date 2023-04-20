@@ -34,9 +34,9 @@
 |     24 |   모나드 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Monad)    | 
 
 ### 🎧 실전
-|    Index |    내용   |  링크 | 
-| ----     | ---- | ---- | 
-|     0 |   pod file |  [이동하기]()   | 
+|    Index |    내용   |  링크 |   출제자 | 
+| ----     | ---- | ---- |  ---- |
+|     0 |   pod file |  [이동하기]()   |
 |     1 |   UserDefault | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/UserDefault)  | 
 |     2 |   ScenDelegate | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/SceneDelegate)  | 
 |     3 |   AlertView, AlertViewController |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/AlertView)  | 
