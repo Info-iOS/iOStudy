@@ -28,9 +28,7 @@
 |     16 |   접근 제어자 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/AccessControl)    | 
 |     17 |   고차 함수 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/HigherOrderFunction)    | 
 |     18 |   에러 처리 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/ErrorHandling)    | 
-|     19 |   UserDefult |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/UserDefault)    | 
 |     20 |   제네릭 |   [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Generic)   | 
-|     21 |   SceneDelegate |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/SceneDelegate)    | 
 |     22 |   ARC |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/ARC)    | 
 |     23 |   순환 참조 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/CircularReference)    | 
 |     24 |   모나드 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Monad)    | 
@@ -38,12 +36,11 @@
 ### 🎧 실전
 |    Index |    내용   |  링크 | 
 | ----     | ---- | ---- | 
-|     0 |   데이터 타입 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/DataType)   | 
-|     1 |   흐름 제어 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/FlowControl)  | 
-|     2 |   함수 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Function)  | 
-|     3 |   클래스, 구조체 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/ClassEndStructure)  | 
-|     4 |   프로퍼티 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Property)    | 
-|     5 |   OOP |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/OOP) | 
-|     6 |   옵셔널 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Optional)    | 
+|     0 |   pod file |  [이동하기]()   | 
+|     1 |   UserDefault | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/UserDefault)  | 
+|     2 |   ScenDelegate | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/SceneDelegate)  | 
+|     3 |   AlertView, AlertViewController |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/AlertView)  | 
+|     4 |   CustomViewController |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/CustomViewController)    | 
+|     5 |   Library |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Library) | 
 
 ---
