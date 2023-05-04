@@ -53,4 +53,5 @@
 |     7 |   실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftInterview/NoSimulateCoding)  | 박준하 |
 |     8 |   스토리보드를 이용했을때의 장단점을 설명하시오 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftInterview/storyboard) | 박준하 |
 |     9 |   DI |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/DI) | 박준하 |
-|     8 |   swift 비동기 처리방식 및 비동기가 어떤 것인지 알아주세요 |  [이동하기](https://github.com/orgs/Info-iOS/discussions/108) | 박준하 |
+|     10 |   swift 비동기 처리방식 및 비동기가 어떤 것인지 알아주세요 |  [이동하기](https://github.com/orgs/Info-iOS/discussions/108) | 박준하 |
+|     11 |   Bounds 와 Frame 조사해주세요 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/BoundsFrame) | 박준하 |
