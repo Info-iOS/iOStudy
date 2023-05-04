@@ -55,3 +55,4 @@
 |     9 |   DI |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/DI) | 박준하 |
 |     10 |   swift 비동기 처리방식 및 비동기가 어떤 것인지 알아주세요 |  [이동하기](https://github.com/orgs/Info-iOS/discussions/108) | 박준하 |
 |     11 |   Bounds 와 Frame 조사해주세요 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/BoundsFrame) | 박준하 |
+|     12 |   View 객체를 조사해주세요 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/UIView) | 박준하 |
