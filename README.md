@@ -57,3 +57,4 @@
 |     11 |   Bounds 와 Frame 조사해주세요 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/BoundsFrame) | 박준하 |
 |     12 |   View 객체를 조사해주세요 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/UIView) | 박준하 |
 |     13 |   tableView와 collectionView의 차이점을 알아와주세요 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/TableViewVSCollectionView) | 박준하 |
+|     14 |   CoreData |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/CoreData) | 박준하 |
