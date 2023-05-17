@@ -61,3 +61,27 @@
 |     12 |   View 객체를 조사해주세요 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/UIView) | 박준하 |
 |     13 |   tableView와 collectionView의 차이점을 알아와주세요 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/TableViewVSCollectionView) | 박준하 |
 |     14 |   CoreData |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/CoreData) | 박준하 |
+
+
+<br>
+
+<br>
+
+### ⚡️ 네트워크/비동기 스터디
+|    일수 |    내용   |  링크 |   출제자 | 
+| ----     | ---- | ---- |  ---- |
+|     1 |   동기/비동기/동시/직렬 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/NetworkStudy/1일차)  | 박준하 |
+|     2 |   async await |   | 박준하 |
+|     3 |   GCD |   | 이은호 |
+|     4 |   DispatchWorkItem, DispatchGroup |    |  박준하 |
+|     5 |   Semaphore |   | 박준하 |
+|     6 |   URLSession을 이용한 기본적인 네트워크 학습<br>URLSessionTask, URLSessionDataTask, URLSessionUploadTask 차이점<br>URLSessionConfiguration과 URLSessionDelegate 학습 |   | 박준하 |
+|     7 |   URLRequest를 이용한 HTTP 요청 학습<br>HTTP Method(GET, POST, PUT, DELETE) 학습<br>URLComponents를 이용한 URL 생성과 파라미터 전달 학습 |   | 박준하 |
+|     8 |   URLSession을 이용한 데이터 다운로드 및 업로드 방법 학습<br>다운로드한 데이터를 이용하여 이미지를 표시하는 방법 학습<br>URLRequest와 함께 업로드할 데이터를 생성하는 방법 학습 |  | 박준하 |
+|     9 |   URLSession을 이용한 파일 다운로드 및 업로드 방법 학습<br>파일 다운로드 시 프로그레스 바를 이용한 다운로드 진행 상황을 표시하는 방법 학습<br>파일 업로드 시 HTTP Body와 함께 전송할 데이터를 생성하는 방법 학습 |   | 박준하 |
+|     10 |   URLSession을 이용한 응답 처리 방법 학습<br>HTTP Status Code에 대한 이해와 처리 방법 학습<br>URLSessionTaskDelegate를 이용한 응답 처리 학습 |   | 박준하 |
+|     11 |   URLSession을 이용한 에러 처리 방법 학습<br>네트워크 에러 및 HTTP Status Code에 따른 에러 처리 방법 학습<br>URLSessionTaskDelegate와 URLSessionDelegate를 이용한 에러 처리 학습 |   | 박준하 |
+|     12 |  URLSession을 이용한 캐시 처리 방법 학습<br>캐시를 이용하여 반복적인 네트워크 통신을 줄이는 방법 학습<br>캐시 정책에 따른 캐시 처리 방법 학습 |   | 박준하 |
+|     13 |  URLSession을 이용한 백그라운드 테스크 처리 방법 학습<br>백그라운드에서 네트워크 통신을 처리하는 방법 학습<br>URLSessionConfiguration 및 URLSessionDelegate를 이용한 백그라운드 테스크 처리 학습 |  | 박준하 |
+|     14 |   URLSession을 이용한 인증 처리 방법 학습<br>네트워크 통신 시 HTTP 인증 처리 방법 학습<br>URLSessionDelegate를 이용한 인증 처리 학습 | | 박준하 |
+
