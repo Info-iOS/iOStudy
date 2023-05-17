@@ -84,5 +84,5 @@
 |     12 |  URLSession을 이용한 캐시 처리 방법 학습<br>캐시를 이용하여 반복적인 네트워크 통신을 줄이는 방법 학습<br>캐시 정책에 따른 캐시 처리 방법 학습 |   |  |
 |     13 |  URLSession을 이용한 백그라운드 테스크 처리 방법 학습<br>백그라운드에서 네트워크 통신을 처리하는 방법 학습<br>URLSessionConfiguration 및 URLSessionDelegate를 이용한 백그라운드 테스크 처리 학습 |  |  |
 |     14 |   URLSession을 이용한 인증 처리 방법 학습<br>네트워크 통신 시 HTTP 인증 처리 방법 학습<br>URLSessionDelegate를 이용한 인증 처리 학습 | |  |
-|     15 |  테스트 및 프로젝트 적용() | |  |
+|     15 |  테스트 및 프로젝트 적용(선택) | |  |
 
