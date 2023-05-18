@@ -70,7 +70,7 @@
 ### ⚡️ 네트워크/비동기 스터디
 |    일수 |    내용   |  링크 | 참여자 | 
 | ----     | ---- | ---- |  ---- |
-|     1 |   동기/비동기/동시/직렬 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/NetworkStudy/1일차)  | 박준하, 이강혁, 이은호, 조 |
+|     1 |   동기/비동기/동시/직렬 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/NetworkStudy/1일차)  | 박준하, 이강혁, 이은호, 조병진 |
 |     2 |   async await |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/NetworkStudy/2일차) | 박준하,이강혁, 이은호 |
 |     3 |   GCD |   | |
 |     4 |   DispatchWorkItem, DispatchGroup |    | |
