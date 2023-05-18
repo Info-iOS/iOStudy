@@ -1,6 +1,6 @@
 # Async와 Await
 
-2023월 5월 17일
+2023월 5월 17일 - 강혁
 
 ![Async-Await](image/Async-Await.png)
 
@@ -18,7 +18,7 @@
     import UIKit
     
     // DispatchQueue 사용한 비동기 처리
-    DispatchQueue.main.async {
+    DispatchQueue.global.async {
     
     }
     
@@ -117,6 +117,8 @@ func processImageData() async throws -> Image {
   return imageResult
 }
 ```
+
+<br>
 
 ### **🍮 Async, Await를 처리하는 내부 원리**
 
