@@ -70,10 +70,10 @@
 ### ⚡️ 네트워크/비동기 스터디
 |    일수 |    내용   |  링크 | 참여자 | 
 | ----     | ---- | ---- |  ---- |
-|     1 |   동기/비동기/동시/직렬 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/NetworkStudy/1일차)  | 박준하, 이강혁, 이은호, 조병진 |
-|     2 |   async await |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/NetworkStudy/2일차) | 박준하,이강혁, 이은호 |
-|     3 |   GCD |   | |
-|     4 |   DispatchWorkItem, DispatchGroup |    | |
+|     1 |   동기/비동기/동시/직렬 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/1일차)  | 박준하, 이강혁, 이은호, 조병진 |
+|     2 |   async await |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/2일차) | 박준하, 이강혁, 이은호 |
+|     3 |   GCD | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/3일차)  | 박준하, 이강혁, 이은호|
+|     4 |   DispatchWorkItem, DispatchGroup |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/4일차)  | 박준하, 이은호|
 |     5 |   Semaphore |   |  |
 |     6 |   URLSession을 이용한 기본적인 네트워크 학습<br>URLSessionTask, URLSessionDataTask, URLSessionUploadTask 차이점<br>URLSessionConfiguration과 URLSessionDelegate 학습 |   |  |
 |     7 |   URLRequest를 이용한 HTTP 요청 학습<br>HTTP Method(GET, POST, PUT, DELETE) 학습<br>URLComponents를 이용한 URL 생성과 파라미터 전달 학습 |   |  |
