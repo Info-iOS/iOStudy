@@ -74,13 +74,13 @@
 |     2 |   async await |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/2일차) | 박준하, 이강혁, 이은호 |
 |     3 |   GCD | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/3일차)  | 박준하, 이강혁, 이은호|
 |     4 |   DispatchWorkItem, DispatchGroup |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/4일차)  | 박준하, 이은호|
-|     5 |   Semaphore |   |  |
-|     6 |   URLSession을 이용한 기본적인 네트워크 학습<br>URLSessionTask, URLSessionDataTask, URLSessionUploadTask 차이점<br>URLSessionConfiguration과 URLSessionDelegate 학습 |   |  |
-|     7 |   URLRequest를 이용한 HTTP 요청 학습<br>HTTP Method(GET, POST, PUT, DELETE) 학습<br>URLComponents를 이용한 URL 생성과 파라미터 전달 학습 |   |  |
-|     8 |   URLSession을 이용한 데이터 다운로드 및 업로드 방법 학습<br>다운로드한 데이터를 이용하여 이미지를 표시하는 방법 학습<br>URLRequest와 함께 업로드할 데이터를 생성하는 방법 학습 |  |  |
-|     9 |   URLSession을 이용한 파일 다운로드 및 업로드 방법 학습<br>파일 다운로드 시 프로그레스 바를 이용한 다운로드 진행 상황을 표시하는 방법 학습<br>파일 업로드 시 HTTP Body와 함께 전송할 데이터를 생성하는 방법 학습 |   |  |
-|     10 |   URLSession을 이용한 응답 처리 방법 학습<br>HTTP Status Code에 대한 이해와 처리 방법 학습<br>URLSessionTaskDelegate를 이용한 응답 처리 학습 |   |  |
-|     11 |   URLSession을 이용한 에러 처리 방법 학습<br>네트워크 에러 및 HTTP Status Code에 따른 에러 처리 방법 학습<br>URLSessionTaskDelegate와 URLSessionDelegate를 이용한 에러 처리 학습 |   |  |
+|     5 |   Semaphore | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/5일차)  |  |
+|     6 |   URLSession을 이용한 기본적인 네트워크 학습<br>URLSessionTask, URLSessionDataTask, URLSessionUploadTask 차이점<br>URLSessionConfiguration과 URLSessionDelegate 학습 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/6일차)  |  |
+|     7 |   URLRequest를 이용한 HTTP 요청 학습<br>HTTP Method(GET, POST, PUT, DELETE) 학습<br>URLComponents를 이용한 URL 생성과 파라미터 전달 학습 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/7일차)  |  |
+|     8 |   URLSession을 이용한 데이터 다운로드 및 업로드 방법 학습<br>다운로드한 데이터를 이용하여 이미지를 표시하는 방법 학습<br>URLRequest와 함께 업로드할 데이터를 생성하는 방법 학습 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/8일차) |  |
+|     9 |   URLSession을 이용한 파일 다운로드 및 업로드 방법 학습<br>파일 다운로드 시 프로그레스 바를 이용한 다운로드 진행 상황을 표시하는 방법 학습<br>파일 업로드 시 HTTP Body와 함께 전송할 데이터를 생성하는 방법 학습 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/9일차)  |  |
+|     10 |   URLSession을 이용한 응답 처리 방법 학습<br>HTTP Status Code에 대한 이해와 처리 방법 학습<br>URLSessionTaskDelegate를 이용한 응답 처리 학습 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/10일차) |  |
+|     11 |   URLSession을 이용한 에러 처리 방법 학습<br>네트워크 에러 및 HTTP Status Code에 따른 에러 처리 방법 학습<br>URLSessionTaskDelegate와 URLSessionDelegate를 이용한 에러 처리 학습 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/AsyncStudy/11일차)  |  |
 |     12 |  URLSession을 이용한 캐시 처리 방법 학습<br>캐시를 이용하여 반복적인 네트워크 통신을 줄이는 방법 학습<br>캐시 정책에 따른 캐시 처리 방법 학습 |   |  |
 |     13 |  URLSession을 이용한 백그라운드 테스크 처리 방법 학습<br>백그라운드에서 네트워크 통신을 처리하는 방법 학습<br>URLSessionConfiguration 및 URLSessionDelegate를 이용한 백그라운드 테스크 처리 학습 |  |  |
 |     14 |   URLSession을 이용한 인증 처리 방법 학습<br>네트워크 통신 시 HTTP 인증 처리 방법 학습<br>URLSessionDelegate를 이용한 인증 처리 학습 | |  |
