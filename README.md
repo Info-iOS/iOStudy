@@ -60,8 +60,12 @@
 |     13 |   tableView와 collectionView의 차이점을 알아와주세요 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/TableViewVSCollectionView) | 박준하 |
 |     14 |   CoreData |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/CoreData) | 박준하 |
 |     15 |   Codable, Encoding, Decoding |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/CodableEncodingDecoding) | 박준하 |
-
-
+|     16 |   화면 전환 방법 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/ViewChange) | 박준하 |
+|     17 |   프레임워크와 라이브러리 차이 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/FrameworkLibrary) | 박준하 |
+|     18 |   DelegatePattern |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/DelegatePattern) | 박준하 |
+|     19 |   App Bundle |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/AppBundle) | 박준하 |
+|     20 |  SOLID | | 박준하 |
+|     21 |  http | | 박준하 |
 
 <br>
 
