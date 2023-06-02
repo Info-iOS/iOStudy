@@ -65,7 +65,12 @@
 |     18 |   DelegatePattern |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/DelegatePattern) | 박준하 |
 |     19 |   App Bundle |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/AppBundle) | 박준하 |
 |     20 |  SOLID | | 박준하 |
-|     21 |  http | | 박준하 |
+|     21 |  HTTP | | 박준하 |
+|     22 |  Designated init(init) 과 convenience init의 차이 | | 박준하 |
+|     23 |  푸시 알림에 대해서 알아와주세요 | | 박준하 |
+|     24 |  UIDevice | | 박준하 |
+|     25 |  super | | 박준하 |
+
 
 <br>
 
