@@ -36,8 +36,6 @@
 |     21 |   서브스크립트 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Subscript)    | 이은호 | 
 |     22 |   map |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Map)    | 이은호 | 
 |     23 |   filter |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Filter)    | 이은호 | 
-|     24 |   Codable, Encoding, Decoding |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/CodableEncodingDecoding)    | 박준하 |
-
 
 <br>
 
@@ -61,7 +59,7 @@
 |     12 |   View 객체를 조사해주세요 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/UIView) | 박준하 |
 |     13 |   tableView와 collectionView의 차이점을 알아와주세요 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/TableViewVSCollectionView) | 박준하 |
 |     14 |   CoreData |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/CoreData) | 박준하 |
-|     14 |   Codable, Encoding, Decoding |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/CodableEncodingDecoding) | 박준하 |
+|     15 |   Codable, Encoding, Decoding |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/CodableEncodingDecoding) | 박준하 |
 
 
 
