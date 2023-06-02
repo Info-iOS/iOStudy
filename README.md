@@ -36,6 +36,7 @@
 |     21 |   서브스크립트 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Subscript)    | 이은호 | 
 |     22 |   map |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Map)    | 이은호 | 
 |     23 |   filter |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Filter)    | 이은호 | 
+|     24 |  super | | 박준하 |
 
 <br>
 
@@ -69,7 +70,6 @@
 |     22 |  Designated init(init) 과 convenience init의 차이 | | 박준하 |
 |     23 |  푸시 알림에 대해서 알아와주세요 | | 박준하 |
 |     24 |  UIDevice | | 박준하 |
-|     25 |  super | | 박준하 |
 
 
 <br>
