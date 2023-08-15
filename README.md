@@ -72,11 +72,11 @@
 |     21 |  HTTP | | 박준하 |
 |     22 |  Designated init(init) 과 convenience init의 차이 | | 박준하 |
 |     23 |  푸시 알림에 대해서 알아와주세요 | | 박준하 |
-|     24 |  UIDevice | | 박준하 |
+|     24 |  UIDevice |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/UIDevice) | 박준하 |
 |     25 |  SuperView | | 박준하 |
 |     26 |  접근성 VoiceOver | | 박준하 |
 |     27 |  키보드 | | 박준하 |
-|     28 |  tuist edit | | 박준하 |
+|     28 |  tuist edit | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Tuist/tusit%20edit) | 박준하 |
 |     29 |  RIBs 알아보기 | | 박준하 |
 |     30 |  달력 | | 박준하 |
 |     31 |  Rxswift 이론 | | 박준하 |
