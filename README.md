@@ -115,12 +115,12 @@
 <br>
 
 ### 🥊 RxSwift
-|    일수 |    내용   |  링크 | 참여자 | 
+|    일수 |    내용   |  링크 | 출제자 | 
 | ----     | ---- | ---- |  ---- |
-|     1 |   RxSwift란? |  | 박준하, 이은호 |
-|     2 |   Observable |  | 박준하, 이은호 |
-|     3 |   Single |  | 이은호 |
-|     4 |   Maybe |  | 이은호 |
-|     5 |   Completable | | 이은호  |
+|     1 |   RxSwift란? |  | 박준하 |
+|     2 |   Observable |  | 박준하 |
+|     3 |   Single |  | 박준하 |
+|     4 |   Maybe |  | 박준하 |
+|     5 |   Completable | | 박준하  |
 
 
