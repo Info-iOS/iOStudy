@@ -78,9 +78,8 @@
 |     27 |  키보드 | | 박준하 |
 |     28 |  tuist edit | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Tuist/tusit%20edit) | 박준하 |
 |     29 |  RIBs 알아보기 | | 박준하 |
-|     30 |  달력 | | 박준하 |
-|     31 |  Rxswift 이론 | | 박준하 |
-|     32 |  keychain | | 박준하 |
+|     30 |  Rxswift 이론 | | 박준하 |
+|     31 |  keychain | | 박준하 |
 
 <br>
 
@@ -89,6 +88,7 @@
 | ----     | ---- | ---- |  ---- |
 |     0 |  제네릭 상속 예제 만들기 |  | 박준하 |
 |     1 |  부분 강조 UILabel하는 법 | | 박준하 |
+|     2 |  달력 만들기 | | 박준하 |
 
 
 <br>
