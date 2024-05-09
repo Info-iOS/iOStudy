@@ -19,27 +19,28 @@
 |     1 |   흐름 제어 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/FlowControl)  | 박준하 | 
 |     2 |   함수 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Function)  | 박준하 | 
 |     3 |   클래스, 구조체 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/ClassEndStructure)  | 박준하 | 
-|     4 |   프로퍼티 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Property)    | 박준하 | 
-|     5 |   옵셔널 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Optional)    | 박준하 | 
-|     6 |   클로저 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Closures)   | 박준하 | 
-|     7 |   self |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/self)   | 박준하 | 
-|     8 |   상속 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Inheritance)    | 박준하 | 
-|     9 |   init |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Initialization)  | 박준하 | 
-|     10 |   익스텐션 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Extension)    | 박준하 | 
-|     11 |   옵셔널 체인징 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/OptionalChainig)    | 박준하 | 
-|     12 |   if let |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/IfLet)    | 박준하 | 
-|     13 |   접근 제어자 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/AccessControl)    | 박준하 | 
-|     14 |   고차 함수 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/HigherOrderFunction)    | 박준하 | 
-|     15 |   에러 처리 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/ErrorHandling)    | 박준하 | 
-|     16 |   제네릭 |   [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Generic)   | 박준하 | 
-|     17 |   ARC |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/ARC)    | 박준하 | 
-|     18 |   순환 참조 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/CircularReference)    | 박준하 | 
-|     19 |   모나드 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Monad)    | 이은호 | 
-|     20 |   메모리 안전 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/MemorySafe)    | 이은호 | 
-|     21 |   서브스크립트 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Subscript)    | 이은호 | 
-|     22 |   map |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Map)    | 이은호 | 
-|     23 |   filter |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Filter)    | 이은호 | 
-|     24 |  super | | 박준하 |
+|     4 |   열거형 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Enum)  | 이은호 | 
+|     5 |   프로퍼티 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Property)    | 박준하 | 
+|     6 |   옵셔널 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Optional)    | 박준하 | 
+|     7 |   클로저 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Closures)   | 박준하 | 
+|     8 |   self |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/self)   | 박준하 | 
+|     9 |   상속 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Inheritance)    | 박준하 | 
+|     10 |   init |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Initialization)  | 박준하 | 
+|     11 |   익스텐션 | [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Extension)    | 박준하 | 
+|     12 |   옵셔널 체인징 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/OptionalChainig)    | 박준하 | 
+|     13 |   if let |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/IfLet)    | 박준하 | 
+|     14 |   접근 제어자 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/AccessControl)    | 박준하 | 
+|     15 |   고차 함수 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/HigherOrderFunction)    | 박준하 | 
+|     16 |   에러 처리 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/ErrorHandling)    | 박준하 | 
+|     17 |   제네릭 |   [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Generic)   | 박준하 | 
+|     18 |   ARC |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/ARC)    | 박준하 | 
+|     19 |   순환 참조 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/CircularReference)    | 박준하 | 
+|     20 |   모나드 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Monad)    | 이은호 | 
+|     21 |   메모리 안전 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/MemorySafe)    | 이은호 | 
+|     22 |   서브스크립트 |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Subscript)    | 이은호 | 
+|     23 |   map |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Map)    | 이은호 | 
+|     24 |   filter |  [이동하기](https://github.com/Info-iOS/iOStudy/tree/main/SwiftGrammar/Filter)    | 이은호 | 
+|     25 |  super | | 박준하 |
 
 <br>
 
